@@ -1,0 +1,18 @@
+{
+	"client": "./client",
+	"svr": "./server",
+	"miniprogramRoot": "./client",
+	"qcloudRoot": "./server",
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true
+	},
+	"appid": "wxa0c0e44c0874cda1",
+	"projectname": "demo",
+	"compileType": "miniprogram",
+	"libVersion": "2.2.0",
+	"condition": {}
+}
